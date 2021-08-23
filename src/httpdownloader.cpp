@@ -47,7 +47,6 @@ bool HTTPDownloader::settings(std::string &output_data) {
     return true;
 }
 
-
 bool HTTPDownloader::get(const std::string &name, const std::string &api_key, const std::string& url, std::string &output) {
 
     set(name, api_key, url);
