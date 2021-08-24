@@ -16,4 +16,5 @@ cmake ../src
 make
 ```
 ## Usage
+---
 `./gists`
