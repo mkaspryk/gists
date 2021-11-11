@@ -3,8 +3,8 @@
 ## Requirements
 ---
 - C++17
-- [CMAKE](https://github.com/Kitware/CMake)
-- [CURL](https://github.com/curl/curl)
+- [CMake](https://github.com/Kitware/CMake)
+- [curl](https://github.com/curl/curl)
 - [nlohmann_json](https://github.com/nlohmann/json)
 ## Instalation
 ---
