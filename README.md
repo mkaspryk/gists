@@ -3,8 +3,9 @@
 ## Requirements
 ---
 - C++17
-- CURL
-- nlohmann_json
+- [CMake](https://github.com/Kitware/CMake)
+- [curl](https://github.com/curl/curl)
+- [nlohmann_json](https://github.com/nlohmann/json)
 ## Instalation
 ---
 ```shell
