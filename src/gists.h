@@ -13,6 +13,7 @@
 
 using json = nlohmann::json;
 
+/* Gist Object struct */
 struct GistObject {
     std::string url;
     std::string file;
